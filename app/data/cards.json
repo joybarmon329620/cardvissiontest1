@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Gengar",
+    "setName": "Lost Origin Trainer Gallery",
+    "series": "Sword & Shield",
+    "grading": 9,
+    "priceCurrency": "GBP",
+    "priceMarket": 34.95,
+    "tcgSmallImageUrl": "https://images.pokemontcg.io/swsh11tg/TG06.png"
+  },
+  {
+    "id": "2",
+    "name": "Mega Absol ex",
+    "setName": "Mega Evolution",
+    "series": "Mega Evolution",
+    "grading": 9,
+    "priceCurrency": "GBP",
+    "priceMarket": 5.54,
+    "tcgSmallImageUrl": "https://images.pokemontcg.io/me1/161.png"
+  },
+  {
+    "id": "3",
+    "name": "Clobbopus",
+    "setName": "Surging Sparks",
+    "series": "Scarlet & Violet",
+    "grading": 9,
+    "priceCurrency": "GBP",
+    "priceMarket": 11.07,
+    "tcgSmallImageUrl": "https://images.pokemontcg.io/sv8/207.png"
+  }
+]
